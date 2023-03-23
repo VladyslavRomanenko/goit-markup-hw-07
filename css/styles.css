@@ -20,6 +20,10 @@
   --modal-background: #fcfcfc;
   --header-shadow-color: #e7e9fc;
   --green-hover-color: #31d0aa;
+
+  --mobile: 427.98px;
+  --tablet: 767.98px;
+  --desctop: 1439.98px;
 }
 
 h1,
