@@ -309,7 +309,6 @@ address {
   }
 
   .contacts {
-    margin-left: ;
     display: flex;
     flex-direction: row;
     align-items: center;
